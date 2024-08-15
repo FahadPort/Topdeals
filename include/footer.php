@@ -5,7 +5,7 @@
     <li>Breaking: Major advancements in AI technology are reshaping the future.</li>
     <li>Global markets rally as economic recovery gains momentum.</li>
     <li>Climate summit ends with historic agreements on carbon reduction.</li>
-    <li>New study reveals the impact of social media on mental health.</li>
+    <li>New study archived  reveals the impact of social media on mental health.</li>
     <li>Local community comes together to support small businesses.</li>
     <li>Innovative tech startups attract record-breaking investments.</li>
     <li>Experts discuss the future of remote work post-pandemic.</li>
